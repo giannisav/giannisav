@@ -23,5 +23,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannisav&show_icons=true&locale=en&layout=compact" alt="giannisav" /></p>
+<h3 align="left">Github stats: </h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannisav&show_icons=true&theme=onedark&title_color=8f1f8c&text_color=8f1f8c&bg_color=22272e&hide_border=true&locale=en&layout=compact" alt="giannisav" /></p>
 
